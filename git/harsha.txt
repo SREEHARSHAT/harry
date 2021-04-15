@@ -1,8 +1,5 @@
 Hiii
 Second Line
 Third line
-<<<<<<< HEAD
-Fourth Line
-=======
 Fifth Line
->>>>>>> ccef9abba61d484660157fd269c980296a2eb6f8
+
