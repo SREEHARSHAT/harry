@@ -1,3 +1,4 @@
 HIIII
 HEllo
-hgasjdg
+Conflict will be resolved.
+This will demonstrate.
