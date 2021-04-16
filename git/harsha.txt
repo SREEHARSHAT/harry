@@ -3,4 +3,9 @@ Second Line
 Third line
 Fifth Line
 Seventh line
+<<<<<<< HEAD
 Devops
+=======
+Eigth
+EOL
+>>>>>>> 1b0ba527c38dffdfb3d5b74ce7fedb1f3b30bc32
